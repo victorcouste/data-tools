@@ -60,7 +60,7 @@ Personal, not exhaustive and subjective list (and categories) of "modern" Data T
 - [Mode](https://mode.com)  collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Grafana](https://grafana.com) open source analytics & monitoring solution
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
-And obviously Tableau, Sisense, Qlik, Spotfire, Chartio (Altassian)
+And obviously Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian)
 
 **Data Quality / Data Profiling / Data Observability**
 - [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
