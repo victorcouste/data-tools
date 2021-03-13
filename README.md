@@ -5,7 +5,7 @@ Personal, not exhaustive and subjective list (and categories) of "modern" Data T
 (for now, no storage, database, data science, virtualization, streaming, orchestration, workflow or data privacy tools)
 
 
-**Articles on tools list and architectures**
+**Data Architecture articles**
 - [What your data team is using: The analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
 - [The Top 20 Most Commonly Used Data Engineering Tools](https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools)
 - [The Building Blocks of a Modern Data Platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165)
