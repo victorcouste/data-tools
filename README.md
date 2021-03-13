@@ -5,12 +5,13 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 
 
 **Data Architecture**
-- [What your data team is using: The analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
-- [The Top 20 Most Commonly Used Data Engineering Tools](https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools)
-- [The Building Blocks of a Modern Data Platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165)
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
 - [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+- [The Building Blocks of a Modern Data Platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165)
+- [What your data team is using: The analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
+- [The Top 20 Most Commonly Used Data Engineering Tools](https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools)
+
 
 **Open Source**
 - [Data Stacks For Fun & Nonprofit](https://towardsdatascience.com/data-stacks-for-fun-nonprofit-part-ii-d375d824abf3)
