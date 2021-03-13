@@ -28,7 +28,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
 - [Hevo](https://hevodata.com) No-code data pipeline as a service
 - [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform project
-- And also Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia ...
+- Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia ...
 
 **Reverse ETL**
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
@@ -62,7 +62,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
-- And also Tableau, PowerBI, Sisense, Qlik, Spotfire (Tibco), Chartio (Atlassian) ...
+- Tableau, PowerBI, Sisense, Qlik, Spotfire (Tibco), Chartio (Atlassian), Toucan Toco ...
 
 **Data Quality / Data Profiling / Data Observability**
 - [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
