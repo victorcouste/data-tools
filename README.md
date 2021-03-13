@@ -1,5 +1,5 @@
 
-## Not exhaustive and subjective list of "modern" Data Tools and Projects**
+## Not exhaustive and subjective list of "modern" Data Tools and Projects
 
 For now, no storage, database, data science, virtualization, streaming, orchestration, workflow or data privacy tools. And not embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
