@@ -39,7 +39,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Dataform](https://dataform.co) Collaboration on SQL pipelines in Cloud data warehouses (Google)
 - [Pano](https://www.pano.dev) Open Source data preparation for Cloud data warehouses
 - [Rasgo](https://www.rasgoml.com) Data preparation for Data Scientists
-- [Mito](https://www.trymito.io) Jupyter Lab extension to generate pandas data analysis scripts from a spreadsheet
+- [Mito](https://www.trymito.io) Jupyter Lab extension to generate panda Python code from a spreadsheet
 
 **SQL tools et editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
