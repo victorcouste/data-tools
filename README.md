@@ -17,67 +17,67 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a)
 
 **Data Ingestion / Data Onboarding / ETL / ELT**
-- [Flatfile](https://flatfile.io) data onboarding platform
+- [Flatfile](https://flatfile.io) Data Onboarding platform
 - [Fivetran](https://fivetran.com)  Cloud data integration platform
-- [Matillion](https://www.matillion.com) cloud data integration
+- [Matillion](https://www.matillion.com) Cloud data integration platform
 - [Apache Gobblin](https://gobblin.apache.org) Open Source distributed data integration framework 
-- [Singer](https://www.singer.io) Simple, Composable, Open Source ETL, open-source standard for writing scripts that move data
+- [Singer](https://www.singer.io) Open Source ETL "Simple, Composable, Standard for writing scripts that move data"
 - [Meltano](https://meltano.com) Open Source ELT for the DataOps
-- [Airbyte](https://airbyte.io) open-source data integration platform
-- [Stitch](https://www.stitchdata.com) : Simple, extensible Cloud ETL platform (Talend)
-- [Hevo](https://hevodata.com) no-code data pipeline as a service.
-- [Apache Hop](http://hop.incubator.apache.org) open source data integration platform
+- [Airbyte](https://airbyte.io) Open Source data integration platform
+- [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
+- [Hevo](https://hevodata.com) No-code data pipeline as a service
+- [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform
 
 **Reverse ETL**
-- [Census](https://www.getcensus.com) operational analytics platform, move data from data warehouse to apps
-- [Hightouch](https://www.hightouch.io) syncs this data to the tools that your business teams, Sync customer data to your SaaS, marketing, sales, and success platforms.
+- [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
+- [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
 
 **Data Transformation / Preparation / Cleaning / Wrangling**
-- [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud & Hadoop on any formats (files, databases, semi-structured)
-- [dbt](https://www.getdbt.com) (Open Source, command line tool to transform data  with SQL)
-- [Dataform](https://dataform.co) Collaborate on SQL pipelines in BigQuery (Google)
-- [Pano](https://www.pano.dev) (Open Source cloud data warehouses)
-- [Rasgo](https://www.rasgoml.com) (Data preparation for Data Scientists)
+- [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud & Hadoop
+- [dbt](https://www.getdbt.com) Transform with SQL from command line ([Open Source](https://github.com/fishtown-analytics/dbt)) or [dbt Cloud](https://www.getdbt.com/product)
+- [Dataform](https://dataform.co) Collaboration on SQL pipelines in Cloud data warehouses (Google)
+- [Pano](https://www.pano.dev) Open Source data preparation for Cloud data warehouses
+- [Rasgo](https://www.rasgoml.com) Data preparation for Data Scientists
 - [Mito](https://www.trymito.io) Jupyter Lab extension to generate pandas data analysis scripts from a spreadsheet
 
 **SQL tools et editors**
-- [Count](https://count.co) The BI notebook built for analysts
-- [PopSQL](https://popsql.com) modern SQL editor
+- [Count](https://count.co) "The BI notebook built for analysts"
+- [PopSQL](https://popsql.com) "Modern SQL editor"
 - [DataGrip](https://www.jetbrains.com/fr-fr/datagrip) IDE for SQL
 
 **SQL Engines**
-- [Trino](https://trino.io) high performance, distributed SQL query engine  (formerly PrestoSQL)
-- [Starburst](https://www.starburst.io) Trino based SQL query engine
-- [AWS Athena](https://aws.amazon.com/athena) interactive query service for Amazon S3 (based on Presto)
+- [Trino](https://trino.io) Open Source high performance, distributed SQL query engine (formerly PrestoSQL)
+- [Starburst](https://www.starburst.io) Cloud or On-premises distributed SQL query engine (based on Trino)
+- [AWS Athena](https://aws.amazon.com/athena) interactive SQL query service for Amazon S3 (based on Presto)
 
 **BI / Reporting / Data Visualization**
-- [Metabase](https://www.metabase.com)  open source business intelligence tool.
-- [Apache Superset](https://superset.apache.org) open source modern data exploration and visualization platform
+- [Metabase](https://www.metabase.com) Open Source business intelligence tool
+- [Apache Superset](https://superset.apache.org) Open Source modern data exploration and visualization platform
 - [Apache ECharts](https://echarts.apache.org) Open Source JavaScript Visualization Library
+- [Grafana](https://grafana.com) open source analytics & monitoring solution
 - [Looker](https://looker.com) BI and Analytics Platform (Google)
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
-- [Mode](https://mode.com)  collaborative data platform that combines SQL, R, Python, and visual analytics
-- [Grafana](https://grafana.com) open source analytics & monitoring solution
+- [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
 And obviously Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian)
 
 **Data Quality / Data Profiling / Data Observability**
 - [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
-- [Monte Carlo](https://www.montecarlodata.com) (Data Reliability Delivered)
+- [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
 - [Datafold](https://www.datafold.com) Data Observability platform
-- [Great Expectations](https://greatexpectations.io) Open Source Data quality, profiling & validation
+- [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
 
 **Data Management / DataOps / Data Lineage / Data Catalog / Data Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
-- [Marquez](https://marquezproject.github.io/marquez)  open source metadata project, data  governance
-- [Altan](https://atlan.com) "the modern data workspace", data management, dataops
-- [DataHub](https://datahubproject.io) A Generalized Metadata Search & Discovery Tool Open Source
-- [Amundsen](https://www.amundsen.io) Open source data discovery and metadata engine
-- [Data Galaxy](https://www.datagalaxy.com/en) Data Governance platform  with Data Catalog and Data Lineage
+- [Marquez](https://marquezproject.github.io/marquez) Open Source metadata and data governance project
+- [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
+- [DataHub](https://datahubproject.io) Open Source metadata search & discovery tool
+- [Amundsen](https://www.amundsen.io) Open Source data discovery and metadata engine
+- [Data Galaxy](https://www.datagalaxy.com/en) Data Governance platform with Data Catalog and Data Lineage
 - [Zeenea](https://zeenea.com) Cloud native Data Catalog
-- [Alation](https://www.alation.com) Data Governance and Data Catalog 
+- [Alation](https://www.alation.com) Data Governance and Data Catalog
 
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
-- [DoltHub](https://www.dolthub.com)   the true Git for data experience in a SQL database
-- [Nessie](https://projectnessie.org)  Data Ops for Data Lakes /A Git-Like Experience for your Data Lake
+- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
+- [Nessie](https://projectnessie.org) DataOps for Data Lakes, a "Git-Like Experience for your Data Lake"
