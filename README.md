@@ -18,15 +18,15 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 
 **Data Ingestion / Data Onboarding / ETL / ELT**
 - [Flatfile](https://flatfile.io) Data Onboarding platform
-- [Fivetran](https://fivetran.com)  Cloud data integration platform
+- [Fivetran](https://fivetran.com) Cloud data integration platform
 - [Matillion](https://www.matillion.com) Cloud data integration platform
-- [Apache Gobblin](https://gobblin.apache.org) Open Source distributed data integration framework 
+- [Apache Gobblin](https://gobblin.apache.org) Open Source distributed data integration framework
 - [Singer](https://www.singer.io) Open Source ETL "Simple, Composable, Standard for writing scripts that move data"
 - [Meltano](https://meltano.com) Open Source ELT for the DataOps
 - [Airbyte](https://airbyte.io) Open Source data integration platform
 - [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
 - [Hevo](https://hevodata.com) No-code data pipeline as a service
-- [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform
+- [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform project
 
 **Reverse ETL**
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
@@ -43,12 +43,12 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 **SQL tools et editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
 - [PopSQL](https://popsql.com) "Modern SQL editor"
-- [DataGrip](https://www.jetbrains.com/fr-fr/datagrip) IDE for SQL
+- [DataGrip](https://www.jetbrains.com/datagrip) IDE for SQL (JetBrains)
 
 **SQL Engines**
-- [Trino](https://trino.io) Open Source high performance, distributed SQL query engine (formerly PrestoSQL)
-- [Starburst](https://www.starburst.io) Cloud or On-premises distributed SQL query engine (based on Trino)
-- [AWS Athena](https://aws.amazon.com/athena) interactive SQL query service for Amazon S3 (based on Presto)
+- [Trino](https://trino.io) Open Source high performance and distributed SQL query engine (formerly PrestoSQL)
+- [Starburst](https://www.starburst.io) Cloud or On-premises SQL engine (based on [Trino](https://trino.io))
+- [AWS Athena](https://aws.amazon.com/athena) Interactive SQL query service for Amazon S3 (based on Presto)
 
 **BI / Reporting / Data Visualization**
 - [Metabase](https://www.metabase.com) Open Source business intelligence tool
