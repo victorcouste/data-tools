@@ -2,7 +2,7 @@
 
 Personal, not exhaustive and subjective list (and categories) of "modern" Data Tools and Projects.
 
-(sorry, for now no storage, database, data science, virtualization, streaming, orchestration, workflow or data privacy tools)
+(for now, no storage, database, data science, virtualization, streaming, orchestration, workflow or data privacy tools)
 
 
 **Articles on tools list and architectures**
