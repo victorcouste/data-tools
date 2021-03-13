@@ -33,7 +33,7 @@ Personal, not exhaustive and subjective list (and categories) of "modern" Data T
 - [Census](https://www.getcensus.com) operational analytics platform, move data from data warehouse to apps
 - [Hightouch](https://www.hightouch.io) syncs this data to the tools that your business teams, Sync customer data to your SaaS, marketing, sales, and success platforms.
 
-**Data Transformation / Preparation / Cleaning**
+**Data Transformation / Preparation / Cleaning / Wrangling**
 - [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud & Hadoop on any formats (files, databases, semi-structured)
 - [dbt](https://www.getdbt.com) (Open Source, command line tool to transform data  with SQL)
 - [Dataform](https://dataform.co) Collaborate on SQL pipelines in BigQuery (Google)
