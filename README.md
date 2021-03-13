@@ -1,5 +1,5 @@
 
-# Personal, not exhaustive and subjective list (and categories) of "modern" Data Tools and Projects.
+# Personal, not exhaustive and subjective list of "modern" Data Tools and Projects.
 
 (for now, no storage, database, data science, virtualization, streaming, orchestration, workflow or data privacy tools)
 
