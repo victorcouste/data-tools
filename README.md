@@ -22,7 +22,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Fivetran](https://fivetran.com) Cloud data integration platform
 - [Matillion](https://www.matillion.com) Cloud data integration platform
 - [Apache Gobblin](https://gobblin.apache.org) Open Source distributed data integration framework
-- [Singer](https://www.singer.io) Open Source ETL "Simple, Composable, Standard for writing scripts that move data"
+- [Singer](https://www.singer.io) "Open Source standard for writing scripts that move data"
 - [Meltano](https://meltano.com) Open Source ELT for the DataOps
 - [Airbyte](https://airbyte.io) Open Source data integration platform
 - [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
@@ -49,7 +49,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [DBeaver](https://dbeaver.io) Free (or Enterprise and Cloud editions) universal database tool
 
 **SQL Engines**
-- [Trino](https://trino.io) Open Source high performance and distributed SQL query engine (formerly PrestoSQL)
+- [Trino](https://trino.io) Open Source high perf and distributed SQL query engine (formerly PrestoSQL)
 - [Starburst](https://www.starburst.io) Cloud or On-premises SQL engine (based on [Trino](https://trino.io))
 - [AWS Athena](https://aws.amazon.com/athena) Interactive SQL query service for Amazon S3 (based on Presto)
 
