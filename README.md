@@ -54,7 +54,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Metabase](https://www.metabase.com) Open Source business intelligence tool
 - [Apache Superset](https://superset.apache.org) Open Source modern data exploration and visualization platform
 - [Apache ECharts](https://echarts.apache.org) Open Source JavaScript Visualization Library
-- [Grafana](https://grafana.com) open source analytics & monitoring solution
+- [Grafana](https://grafana.com) Open Source analytics & monitoring solution
 - [Looker](https://looker.com) BI and Analytics Platform (Google)
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
