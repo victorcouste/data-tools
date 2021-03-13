@@ -28,6 +28,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
 - [Hevo](https://hevodata.com) No-code data pipeline as a service
 - [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform project
+- And also Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia ...
 
 **Reverse ETL**
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
@@ -45,6 +46,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Count](https://count.co) "The BI notebook built for analysts"
 - [PopSQL](https://popsql.com) "Modern SQL editor"
 - [DataGrip](https://www.jetbrains.com/datagrip) IDE for SQL (JetBrains)
+- [DBeaver](https://dbeaver.io) Free (or Enterprise and Cloud editions) universal database tool
 
 **SQL Engines**
 - [Trino](https://trino.io) Open Source high performance and distributed SQL query engine (formerly PrestoSQL)
@@ -60,7 +62,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
-- And also Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian) ...
+- And also Tableau, PowerBI, Sisense, Qlik, Spotfire (Tibco), Chartio (Atlassian) ...
 
 **Data Quality / Data Profiling / Data Observability**
 - [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
@@ -76,7 +78,8 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Amundsen](https://www.amundsen.io) Open Source data discovery and metadata engine
 - [Data Galaxy](https://www.datagalaxy.com/en) Data Governance platform with Data Catalog and Data Lineage
 - [Zeenea](https://zeenea.com) Cloud native Data Catalog
-- [Alation](https://www.alation.com) Data Governance and Data Catalog
+- [Alation](https://www.alation.com) Data Governance and Data Catalog platform
+- [Collibra](https://www.collibra.com) Data Governance and Data Catalog platform
 
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
