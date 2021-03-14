@@ -81,8 +81,11 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Zeenea](https://zeenea.com) Cloud native Data Catalog
 - [Alation](https://www.alation.com) Data Governance and Data Catalog platform
 - [Collibra](https://www.collibra.com) Data Governance and Data Catalog platform
+- [Secoda](https://www.secoda.co) Data Discovery and Data Catalog
 
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
 - [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
 - [Nessie](https://projectnessie.org) DataOps for Data Lakes, a "Git-Like Experience for your Data Lake"
+- [Nexla](https://www.nexla.com) DataOps platform "to delivery data for Analytics, AI and Operations"
+- [Keboola](https://www.keboola.com) DataOps platform
