@@ -92,4 +92,4 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
 - [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
-- [PostHog](https://posthog.com) Product Analytics platform
+- [PostHog](https://posthog.com) Open Source Product Analytics platform
