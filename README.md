@@ -71,10 +71,9 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Datafold](https://www.datafold.com) Data Observability platform
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
 
-**Data Management / DataOps / Data Lineage / Data Catalog / Data Governance**
+**Data Management / Data Lineage / Data Catalog / Data Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
 - [Marquez](https://marquezproject.github.io/marquez) Open Source metadata and data governance project
-- [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
 - [DataHub](https://datahubproject.io) Open Source metadata search & discovery tool
 - [Amundsen](https://www.amundsen.io) Open Source data discovery and metadata engine
 - [Data Galaxy](https://www.datagalaxy.com/en) Data Governance platform with Data Catalog and Data Lineage
@@ -83,9 +82,13 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Collibra](https://www.collibra.com) Data Governance and Data Catalog platform
 - [Secoda](https://www.secoda.co) Data Discovery and Data Catalog
 
-**Others**
-- [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
-- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
+**DataOps**
+- [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
 - [Nessie](https://projectnessie.org) DataOps for Data Lakes, a "Git-Like Experience for your Data Lake"
 - [Nexla](https://www.nexla.com) DataOps platform "to delivery data for Analytics, AI and Operations"
 - [Keboola](https://www.keboola.com) DataOps platform
+- [Saagie](https://www.saagie.com) DataOps platform
+
+**Others**
+- [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
+- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
