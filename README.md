@@ -36,7 +36,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 
 **Data Transformation / Preparation / Cleaning / Wrangling**
 - [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud & Hadoop
-- [dbt](https://www.getdbt.com) Transform with SQL from command line ([Open Source](https://github.com/fishtown-analytics/dbt)) or [dbt Cloud](https://www.getdbt.com/product)
+- [dbt](https://www.getdbt.com) Transform with SQL from command line ([Open Source](https://github.com/fishtown-analytics/dbt)) or Cloud
 - [Dataform](https://dataform.co) Collaboration on SQL pipelines in Cloud data warehouses (Google)
 - [Pano](https://www.pano.dev) Open Source data preparation for Cloud data warehouses
 - [Rasgo](https://www.rasgoml.com) Data preparation for Data Scientists
