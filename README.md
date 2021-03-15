@@ -35,7 +35,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
 
 **Data Transformation / Preparation / Cleaning / Wrangling**
-- [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud & Hadoop
+- [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud (or Hadoop) platforms and storages
 - [dbt](https://www.getdbt.com) Transform with SQL from command line ([Open Source](https://github.com/fishtown-analytics/dbt)) or Cloud
 - [Dataform](https://dataform.co) Collaboration on SQL pipelines in Cloud data warehouses (Google)
 - [Pano](https://www.pano.dev) Open Source data preparation for Cloud data warehouses
