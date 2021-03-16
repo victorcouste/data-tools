@@ -1,7 +1,7 @@
 
 ## Not exhaustive and personnal list of "modern" Data Tools and Projects
 
-For now, no storage, database, data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
+No (traditional) storage or databases, and for now no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
 
 **Data Architecture**
@@ -81,6 +81,7 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Alation](https://www.alation.com) Data Governance and Data Catalog platform
 - [Collibra](https://www.collibra.com) Data Governance and Data Catalog platform
 - [Secoda](https://www.secoda.co) Data Discovery and Data Catalog
+- [MANTA](https://getmanta.com) Data Lineage platform
 
 **DataOps**
 - [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
@@ -89,8 +90,11 @@ For now, no storage, database, data science, virtualization, streaming, orchestr
 - [Keboola](https://www.keboola.com) DataOps platform
 - [Saagie](https://www.saagie.com) DataOps platform
 
+**Storage / Database**
+- [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
+- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
+
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
-- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
 - [PostHog](https://posthog.com) Open Source Product Analytics platform
-- [Opendatasoft](https://www.opendatasoft.com) Data sharing platform
+- [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
