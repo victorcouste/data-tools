@@ -80,11 +80,12 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [DataHub](https://datahubproject.io) Open Source metadata search & discovery tool
 - [Amundsen](https://www.amundsen.io) Open Source data discovery and metadata engine
 - [Data Galaxy](https://www.datagalaxy.com/en) Data Governance platform with Data Catalog and Data Lineage
-- [Zeenea](https://zeenea.com) Cloud native Data Catalog
+- [Zeenea](https://zeenea.com) Cloud-native Data Catalog
 - [Alation](https://www.alation.com) Data Governance and Data Catalog platform
 - [Collibra](https://www.collibra.com) Data Governance and Data Catalog platform
 - [Secoda](https://www.secoda.co) Data Discovery and Data Catalog
 - [MANTA](https://getmanta.com) Data Lineage platform
+- [data.world](https://data.world) Cloud-native Data Catalog
 
 **DataOps**
 - [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
@@ -92,6 +93,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Nexla](https://www.nexla.com) DataOps platform "to delivery data for Analytics, AI and Operations"
 - [Keboola](https://www.keboola.com) DataOps platform
 - [Saagie](https://www.saagie.com) DataOps platform
+- [DataKitchen](https://datakitchen.io) DataOps platform
 - [DAGsHub](https://dagshub.com) GitHub for data
 
 **Storage / Database**
@@ -106,3 +108,4 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [PostHog](https://posthog.com) Open Source Product Analytics platform
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
 - [Rudderstack](https://rudderstack.com) Event tracking + data movement
+- [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
