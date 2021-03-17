@@ -12,7 +12,6 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [What your data team is using: The analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
 - [The Top 20 Most Commonly Used Data Engineering Tools](https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools)
 
-
 **Open Source**
 - [Data Stacks For Fun & Nonprofit](https://towardsdatascience.com/data-stacks-for-fun-nonprofit-part-ii-d375d824abf3)
 - [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a)
@@ -28,6 +27,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
 - [Hevo](https://hevodata.com) No-code data pipeline as a service
 - [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform project
+- [Meroxa](https://meroxa.com) Real-time data infrastructure
 - Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia
 
 **Reverse ETL**
@@ -64,6 +64,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
+- [Hex](https://hex.tech) Collaboarative SQL + Python-based notebooks
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
@@ -90,12 +91,18 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Nexla](https://www.nexla.com) DataOps platform "to delivery data for Analytics, AI and Operations"
 - [Keboola](https://www.keboola.com) DataOps platform
 - [Saagie](https://www.saagie.com) DataOps platform
+- [DAGsHub](https://dagshub.com) GitHub for data
 
 **Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
-- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
+- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"- [DVC](https://dvc.org) Data Version Control
+- [Materialize](https://materialize.com) Event Streaming Database
+- Snowflake
+- BigQuery
+- Redshift
 
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
 - [PostHog](https://posthog.com) Open Source Product Analytics platform
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
+- [Rudderstack](https://rudderstack.com) Event tracking + data movement
