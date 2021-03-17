@@ -72,6 +72,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
 - [Datafold](https://www.datafold.com) Data Observability platform
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
+- [Bigeye](https://www.bigeye.com) Automatic data quality monitoring
 
 **Data Management / Data Lineage / Data Catalog / Data Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
