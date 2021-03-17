@@ -95,11 +95,10 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 
 **Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
-- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"- [DVC](https://dvc.org) Data Version Control
+- [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
+- [DVC](https://dvc.org) Data Version Control
 - [Materialize](https://materialize.com) Event Streaming Database
-- Snowflake
-- BigQuery
-- Redshift
+- Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB
 
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
