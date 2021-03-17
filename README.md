@@ -73,6 +73,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Datafold](https://www.datafold.com) Data Observability platform
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
 - [Bigeye](https://www.bigeye.com) Automatic data quality monitoring
+- [Anomalo](https://www.anomalo.com) Validate and document your data warehouse
 
 **Data Management / Data Lineage / Data Catalog / Data Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
