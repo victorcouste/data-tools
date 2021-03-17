@@ -41,6 +41,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Pano](https://www.pano.dev) Open Source data preparation for Cloud data warehouses
 - [Rasgo](https://www.rasgoml.com) Data preparation for Data Scientists
 - [Mito](https://www.trymito.io) Jupyter Lab extension to generate panda Python code from a spreadsheet
+- [DataPrep](https://dataprep.ai/) Prepare data in Python
 
 **SQL tools et editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
