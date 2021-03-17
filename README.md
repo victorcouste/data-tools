@@ -64,7 +64,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
-- [Hex](https://hex.tech) Collaboarative SQL + Python-based notebooks
+- [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
