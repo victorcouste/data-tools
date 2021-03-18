@@ -58,13 +58,14 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Metabase](https://www.metabase.com) Open Source business intelligence tool
 - [Apache Superset](https://superset.apache.org) Open Source modern data exploration and visualization platform
 - [Apache ECharts](https://echarts.apache.org) Open Source JavaScript Visualization Library
-- [Cube.js](https://cube.dev) Open Source Analytical API Platform
+- [Cube.js](https://cube.dev) Open Source Analytical API platform
 - [Grafana](https://grafana.com) Open Source analytics & monitoring solution
 - [Looker](https://looker.com) BI and Analytics Platform (Google)
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
+- [Amplitude](https://amplitude.com) Product Analytics platform
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
