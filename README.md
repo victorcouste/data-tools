@@ -65,7 +65,6 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
-- [Amplitude](https://amplitude.com) Product Analytics platform
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
@@ -109,6 +108,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 **Others**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
 - [PostHog](https://posthog.com) Open Source Product Analytics platform
+- [Amplitude](https://amplitude.com) Product Analytics platform
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
 - [Rudderstack](https://rudderstack.com) Event tracking + data movement
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
