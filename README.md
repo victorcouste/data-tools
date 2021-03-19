@@ -115,7 +115,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 
 **And finally don't hesitate to:**
 - Star this GitHub repository Web site :)
-- Suggest addition interesting/new data tool with a pull request !
+- Suggest addition interesting/new data tool with a [pull request](https://github.com/victorcouste/data-tools/pulls) or a message !
 - Share this list in your newtork :)
 - Enjoy and have fun !
 
