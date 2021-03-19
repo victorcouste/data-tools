@@ -112,3 +112,12 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
 - [Rudderstack](https://rudderstack.com) Event tracking + data movement
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
+
+**And finally don't hesitate to:**
+- Star the Git repo Web site :)
+- Suggest addition interesting/new data tool with a pull request !
+- Share this list in your newtork :)
+- Enjoy and have fun !
+
+Victor
+
