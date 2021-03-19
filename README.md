@@ -114,7 +114,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
 
 **And finally don't hesitate to:**
-- Star this GitHub repository Web site :)
+- Star this GitHub repository Web page :)
 - Suggest addition interesting/new data tool with a [pull request](https://github.com/victorcouste/data-tools/pulls), an [issue](https://github.com/victorcouste/data-tools/issues/new) or a [message](https://github.com/victorcouste) !
 - Share this list in your newtork :)
 - Enjoy and have fun !
