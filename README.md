@@ -3,6 +3,18 @@
 
 No (traditional) storage or databases, and for now no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
+- Data Ingestion / Data Onboarding / ETL / ELT
+- Reverse ETL
+- Data collection / Product Analytics / Customer Data
+- Data Transformation / Preparation / Cleaning / Wrangling
+- SQL tools / editors
+- SQL Engines
+- BI / Reporting / Data Visualization
+- Data Quality / Data Profiling / Data Observability
+- Data Management / Data Lineage / Data Catalog / Data Governance
+- DataOps
+- Storage / Database
+- Others
 
 **Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
@@ -27,12 +39,27 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Stitch](https://www.stitchdata.com) Simple, extensible Cloud ETL platform (Talend)
 - [Hevo](https://hevodata.com) No-code data pipeline as a service
 - [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform project
-- [Meroxa](https://meroxa.com) Real-time data infrastructure
+- [Meroxa](https://meroxa.com) Real-time data ingestion infrastructure
 - Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia
 
 **Reverse ETL**
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
 - [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
+
+**Data collection / Product Analytics / Customer Data**
+- [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
+- [RudderStack](https://rudderstack.com) Customer data pipeline, event tracking
+- [Snowplow](https://snowplowanalytics.com) Data collection platform 
+- [Freshpaint](https://www.freshpaint.io) Collect, control, and deliver customer data
+- [PostHog](https://posthog.com) Open Source Product Analytics platform
+- [Amplitude](https://amplitude.com) Product Analytics platform
+- [PostHog](https://posthog.com) Open Source Product Analytics platform
+- [Amplitude](https://amplitude.com) Product Analytics platform
+- [Iteratively](https://iterative.ly) Product Analytics platform « Capture customer data you trust »  
+- [Avo](https://www.avo.app) Product Analytics platform
+- [Mixpanel](https://mixpanel.com) Product analytics platform
+- [Indicative](https://www.indicative.com) Product analytics platform 
+- [Heap](https://heap.io) Product analytics platform
 
 **Data Transformation / Preparation / Cleaning / Wrangling**
 - [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud (or Hadoop) platforms and storages
@@ -43,7 +70,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Mito](https://www.trymito.io) Jupyter Lab extension to generate panda Python code from a spreadsheet
 - [DataPrep](https://dataprep.ai/) Prepare data in Python
 
-**SQL tools et editors**
+**SQL tools / editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
 - [PopSQL](https://popsql.com) "Modern SQL editor"
 - [DataGrip](https://www.jetbrains.com/datagrip) IDE for SQL (JetBrains)
@@ -106,11 +133,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB
 
 **Others**
-- [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
-- [PostHog](https://posthog.com) Open Source Product Analytics platform
-- [Amplitude](https://amplitude.com) Product Analytics platform
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
-- [Rudderstack](https://rudderstack.com) Event tracking + data movement
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
 
 **And finally don't hesitate to:**
