@@ -144,7 +144,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - Star this GitHub repository Web page [![GitHub stars](https://img.shields.io/github/stars/victorcouste/data-tools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/victorcouste/data-tools/stargazers)
 - Suggest addition interesting/new data tool with a [pull request](https://github.com/victorcouste/data-tools/pulls), an [issue](https://github.com/victorcouste/data-tools/issues/new) [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new) or a [message](https://github.com/victorcouste)
 - Share [this list](https://victorcouste.github.io/data-tools) in your newtork
-- [![Enjoy and Have Fun !](https://img.shields.io/badge/Enjoy-and%20Have%20Fun-orange)]()
+- <img src="https://img.shields.io/badge/Enjoy-and%20Have%20Fun-orange"/>
 
 Victor
 
