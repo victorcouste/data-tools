@@ -1,6 +1,9 @@
 
 ## Not exhaustive and personnal list of "modern" Data Tools and Projects
 
+[![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new)
+[![GitHub stars](https://img.shields.io/github/stars/victorcouste/data-tools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/victorcouste/data-tools/stargazers)
+
 No (traditional) storage or databases, and for now no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
 - Data Ingestion / Data Onboarding / ETL / ELT
@@ -15,6 +18,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - DataOps
 - Storage / Database
 - Others
+
 
 **Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
@@ -137,10 +141,10 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
 
 **And finally don't hesitate to:**
-- Star this GitHub repository Web page :)
-- Suggest addition interesting/new data tool with a [pull request](https://github.com/victorcouste/data-tools/pulls), an [issue](https://github.com/victorcouste/data-tools/issues/new) or a [message](https://github.com/victorcouste) !
-- Share this list in your newtork :)
-- Enjoy and have fun !
+- Star this GitHub repository Web page [![GitHub stars](https://img.shields.io/github/stars/victorcouste/data-tools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/victorcouste/data-tools/stargazers)
+- Suggest addition interesting/new data tool with a [pull request](https://github.com/victorcouste/data-tools/pulls), an [issue](https://github.com/victorcouste/data-tools/issues/new) [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new) or a [message](https://github.com/victorcouste)
+- Share [this list](https://victorcouste.github.io/data-tools) in your newtork
+- [![Enjoy and Have Fun !](https://img.shields.io/badge/Enjoy-and%20Have%20Fun-orange)]
 
 Victor
 
