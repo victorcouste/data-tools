@@ -7,9 +7,9 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 
 - Data Ingestion / Data Onboarding / ETL / ELT
 - Reverse ETL
-- Data collection / Product Analytics / Customer Data
+- Data Collection / Product Analytics / Customer Data
 - Data Transformation / Preparation / Cleaning / Wrangling
-- SQL tools / editors
+- SQL Tools / Editors
 - SQL Engines
 - BI / Reporting / Data Visualization
 - Data Quality / Data Profiling / Data Observability
