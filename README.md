@@ -3,8 +3,6 @@
 
 [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new)
 
-No (traditional) storage or databases, and for now no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
-
 - Data Ingestion / Data Onboarding / ETL / ELT
 - Reverse ETL
 - Data Collection / Product Analytics / Customer Data
@@ -18,6 +16,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - Storage / Database
 - Others
 
+No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
 **Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
