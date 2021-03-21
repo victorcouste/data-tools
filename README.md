@@ -96,6 +96,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
 - [Sigma](https://www.sigmacomputing.com) cloud analytics solution
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
+- [Lux](https://github.com/lux-org/lux) Python library and API for Intelligent Visual Discovery
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
