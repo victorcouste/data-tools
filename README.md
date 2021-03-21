@@ -2,7 +2,6 @@
 ## Not exhaustive and personnal list of "modern" Data Tools and Projects
 
 [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new)
-[![GitHub stars](https://img.shields.io/github/stars/victorcouste/data-tools.svg?style=social&label=Star&maxAge=2592000)](https://github.com/victorcouste/data-tools/stargazers)
 
 No (traditional) storage or databases, and for now no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
