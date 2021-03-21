@@ -50,7 +50,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
 - [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
 
-**Data collection / Product Analytics / Customer Data**
+**Data Collection / Product Analytics / Customer Data**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
 - [RudderStack](https://rudderstack.com) Customer data pipeline, event tracking
 - [Snowplow](https://snowplowanalytics.com) Data collection platform 
@@ -74,7 +74,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Mito](https://www.trymito.io) Jupyter Lab extension to generate panda Python code from a spreadsheet
 - [DataPrep](https://dataprep.ai/) Prepare data in Python
 
-**SQL tools / editors**
+**SQL Tools / Editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
 - [PopSQL](https://popsql.com) "Modern SQL editor"
 - [DataGrip](https://www.jetbrains.com/datagrip) IDE for SQL (JetBrains)
@@ -94,7 +94,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Looker](https://looker.com) BI and Analytics Platform (Google)
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
-- [Sigma](https://www.sigmacomputing.com) cloud analytics solution
+- [Sigma](https://www.sigmacomputing.com)Cloud analytics solution
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
 - [Lux](https://github.com/lux-org/lux) Python library and API for Intelligent Visual Discovery
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
