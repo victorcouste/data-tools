@@ -94,7 +94,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [Looker](https://looker.com) BI and Analytics Platform (Google)
 - [Redash](https://redash.io) Data visualisation and Dashboarding with SQL (Databricks)
 - [Mode](https://mode.com) Collaborative data platform that combines SQL, R, Python, and visual analytics
-- [Sigma](https://www.sigmacomputing.com)Cloud analytics solution
+- [Sigma](https://www.sigmacomputing.com) Cloud analytics solution
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
 - [Lux](https://github.com/lux-org/lux) Python library and API for Intelligent Visual Discovery
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
@@ -135,7 +135,7 @@ No (traditional) storage or databases, and for now no data science, virtualizati
 - [DVC](https://dvc.org) Data Version Control
 - [Materialize](https://materialize.com) Event Streaming Database
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
-- Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB
+- Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j
 
 **Others**
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
