@@ -95,6 +95,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Sigma](https://www.sigmacomputing.com) Cloud analytics solution
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
 - [Lux](https://github.com/lux-org/lux) Python library and API for Intelligent Visual Discovery
+- [y42](https://www.y42.com) "No-Code Business Intelligence" platform
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
