@@ -96,6 +96,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Hex](https://hex.tech) Collaborative SQL + Python-based notebooks
 - [Lux](https://github.com/lux-org/lux) Python library and API for Intelligent Visual Discovery
 - [y42](https://www.y42.com) "No-Code Business Intelligence" platform
+- [Knowage](https://www.knowage-suite.com) Open Source Business Analytics Suite
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
 **Data Quality / Data Profiling / Data Observability**
