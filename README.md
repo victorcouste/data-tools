@@ -109,6 +109,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
 - [Bigeye](https://www.bigeye.com) Automatic data quality monitoring
 - [Anomalo](https://www.anomalo.com) Validate and document your data warehouse
+- [Trackplan](ttps://trackplan.io) "Schema Management for Behavioural Data Tracking"
 
 **Data Management / Data Lineage / Data Catalog / Data Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
