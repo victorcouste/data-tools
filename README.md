@@ -21,7 +21,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 **Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
 - [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack)
-- [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+- [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html) and a [Data Warehouse comparison](https://blog.starburstdata.com/data-mesh-the-answer-to-the-data-warehouse-hypocrisy)
 - [The Building Blocks of a Modern Data Platform](https://towardsdatascience.com/the-building-blocks-of-a-modern-data-platform-92e46061165)
 - [Two steps towards a modern data platform](https://medium.com/bigdatarepublic/two-steps-towards-a-modern-data-platform-37c74e7c104b)
 - [What your data team is using: The analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
