@@ -100,7 +100,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [y42](https://www.y42.com) "No-Code Business Intelligence" platform
 - [Knowage](https://www.knowage-suite.com) Open Source Business Analytics Suite
 - [Rakam](https://rakam.io) Data platform for building analytics interface (dbt integration)
-- [datawrapper](https://www.datawrapper.de) Enrich stories and articles with data visualization
+- [Datawrapper](https://www.datawrapper.de) Enrich stories and articles with data visualization
 - [D3](https://d3js.org) JavaScript library for visualizing data with HTML, SVG, and CSS
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
