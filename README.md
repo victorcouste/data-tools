@@ -72,6 +72,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Rasgo](https://www.rasgoml.com) Data preparation for Data Scientists
 - [Mito](https://www.trymito.io) Jupyter Lab extension to generate panda Python code from a spreadsheet
 - [DataPrep](https://dataprep.ai/) Prepare data in Python
+- [OpenRefine](https://openrefine.org) "A free, open source, powerful tool for working with messy data"
 
 **SQL Tools / Editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
