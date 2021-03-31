@@ -145,7 +145,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [DVC](https://dvc.org) Data Version Control
 - [Materialize](https://materialize.com) Event Streaming Database
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
-- Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j
+- Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
 
 **Others**
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
