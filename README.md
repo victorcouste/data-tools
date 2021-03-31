@@ -80,6 +80,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [DataGrip](https://www.jetbrains.com/datagrip) IDE for SQL (JetBrains)
 - [DBeaver](https://dbeaver.io) Free (or Enterprise and Cloud editions) universal database tool
 - [sq](https://sq.io) "swiss-army knife for data", SQL in command line for relational data
+- [SqlDBM](https://sqldbm.com) Develop Database Models
 
 **SQL Engines**
 - [Trino](https://trino.io) Open Source high perf and distributed SQL query engine (formerly PrestoSQL)
