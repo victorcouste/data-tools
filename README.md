@@ -137,6 +137,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Saagie](https://www.saagie.com) DataOps platform
 - [DataKitchen](https://datakitchen.io) DataOps platform
 - [DAGsHub](https://dagshub.com) GitHub for data
+- [Unravel](https://www.unraveldata.com) DataOps platform
 
 **Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
