@@ -48,7 +48,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 **Reverse ETL**
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
 - [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
-- [Grouparoo](https://www.grouparoo.com) Open Source framework to move data between database and cloud-based tools
+- [Grouparoo](https://www.grouparoo.com) Open Source framework to move data between database and Cloud apps
 
 **Data Collection / Product Analytics / Customer Data**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
