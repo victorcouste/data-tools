@@ -7,7 +7,7 @@
 - [Data Ingestion / Data Onboarding / ETL / ELT](#ingestion)
 - [Reverse ETL](#reverse)
 - [Data Collection / Product Analytics / Customer Data](#collection)
-- [Data Transformation / Preparation / Cleaning / Wrangling](#transformation)
+- [Transformation / Preparation / Cleaning / Wrangling](#transformation)
 - [SQL Tools / Editors](#sqltools)
 - [SQL Engines](#sql)
 - [BI / Reporting / Data Visualization](#bi)
@@ -68,7 +68,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Heap](https://heap.io) Product analytics platform
 - [Supermetrics](https://supermetrics.com) Get marketing data for reporting, analytics and storage
 
-<a name="transformation"></a>**Data Transformation / Preparation / Cleaning / Wrangling**
+<a name="transformation"></a>**Transformation / Preparation / Cleaning / Wrangling**
 - [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud (or Hadoop) platforms and storages
 - [dbt](https://www.getdbt.com) Transform with SQL from command line ([Open Source](https://github.com/fishtown-analytics/dbt)) or Cloud
 - [Dataform](https://dataform.co) Collaboration on SQL pipelines in Cloud data warehouses (Google)
