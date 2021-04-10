@@ -15,9 +15,10 @@
 - [DataOps / Data Fabric](#ops)
 - [Orchestration / Workflow](#orchestration)
 - [Storage / Database](#storage)
+- [Data Privacy / Security](#privacy)
 - [Others](#others)
 
-No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, streaming, or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
+No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, or streaming tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
 **Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
@@ -158,6 +159,16 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Materialize](https://materialize.com) Event Streaming Database
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
 - Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
+
+<a name="privacy"></a>**Data Privacy / Security**
+- [Immuta](https://www.immuta.com) "Self-Service Data Access with Automated Privacy Control"
+- [Okera](https://www.okera.com) Cloud data security, "Universal Data Authorization"
+- [Privacera](https://privacera.com) SaaS Access Governance Solution
+- [Apache Ranger](https://ranger.apache.org/Framework to enable, monitor and manage comprehensive data security
+- [Baffle](https://baffle.io) Cloud security with a "transparent data security mesh"
+- [Privitar](https://www.privitar.com) Enterprise Data Privacy Software
+- [ReachFive](https://www.reachfive.com) Identity & Access Management
+- [Okta](https://www.okta.com) Trusted platform to secure identities, from customers to workforce
 
 <a name="others"></a>**Others**
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
