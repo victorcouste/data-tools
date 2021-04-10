@@ -3,8 +3,8 @@
 
 [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new)
 
-- <a href="#Ingestion">Data Ingestion / Data Onboarding / ETL / ELT</a>
-- Reverse ETL
+- <a href="#ingestion">Data Ingestion / Data Onboarding / ETL / ELT</a>
+- [Reverse ETL](#reverse)
 - Data Collection / Product Analytics / Customer Data
 - Data Transformation / Preparation / Cleaning / Wrangling
 - SQL Tools / Editors
@@ -46,7 +46,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Meroxa](https://meroxa.com) Real-time data ingestion infrastructure
 - Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia, HVR
 
-**Reverse ETL**
+<a name="reverse"></a>**Reverse ETL**
 - [Census](https://www.getcensus.com) Operational analytics platform, move data from data warehouse to apps
 - [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
 - [Grouparoo](https://www.grouparoo.com) Open Source framework to move data between database and Cloud apps
