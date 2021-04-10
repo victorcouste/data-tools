@@ -3,19 +3,19 @@
 
 [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new)
 
-- <a href="#ingestion">Data Ingestion / Data Onboarding / ETL / ELT</a>
+- [Data Ingestion / Data Onboarding / ETL / ELT](#</a>
 - [Reverse ETL](#reverse)
-- Data Collection / Product Analytics / Customer Data
-- Data Transformation / Preparation / Cleaning / Wrangling
-- SQL Tools / Editors
-- SQL Engines
-- BI / Reporting / Data Visualization
-- Data Quality / Data Profiling / Data Observability
-- Data Management / Data Lineage / Data Catalog / Data Governance
-- DataOps / Data Fabric
-- Orchestration / Workflow
-- Storage / Database
-- Others
+- [Data Collection / Product Analytics / Customer Data](#collection)
+- [Data Transformation / Preparation / Cleaning / Wrangling](#transformation)
+- [SQL Tools / Editors](#sqltools)
+- [SQL Engines](#sql)
+- [BI / Reporting / Data Visualization](#bi)
+- [Data Quality / Data Profiling / Data Observability](#quality)
+- [Data Management / Data Lineage / Data Catalog / Data Governance](#management)
+- [DataOps / Data Fabric](#ops)
+- [Orchestration / Workflow](#orchestration)
+- [Storage / Database](#storage)
+- [Others](#others)
 
 No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, streaming, or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
@@ -51,7 +51,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Hightouch](https://www.hightouch.io) Sync customer data to SaaS business platforms
 - [Grouparoo](https://www.grouparoo.com) Open Source framework to move data between database and Cloud apps
 
-**Data Collection / Product Analytics / Customer Data**
+<a name="collection"></a>**Data Collection / Product Analytics / Customer Data**
 - [Segment](https://segment.com) Customer data platform (CDP) (Twilio)
 - [RudderStack](https://rudderstack.com) Customer data pipeline, event tracking
 - [Snowplow](https://snowplowanalytics.com) Data collection platform 
@@ -67,7 +67,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Heap](https://heap.io) Product analytics platform
 - [Supermetrics](https://supermetrics.com) Get marketing data for reporting, analytics and storage
 
-**Data Transformation / Preparation / Cleaning / Wrangling**
+<a name="transformation"></a>**Data Transformation / Preparation / Cleaning / Wrangling**
 - [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud (or Hadoop) platforms and storages
 - [dbt](https://www.getdbt.com) Transform with SQL from command line ([Open Source](https://github.com/fishtown-analytics/dbt)) or Cloud
 - [Dataform](https://dataform.co) Collaboration on SQL pipelines in Cloud data warehouses (Google)
@@ -77,7 +77,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [DataPrep](https://dataprep.ai/) Prepare data in Python
 - [OpenRefine](https://openrefine.org) "A free, open source, powerful tool for working with messy data"
 
-**SQL Tools / Editors**
+<a name="sqltools"></a>**SQL Tools / Editors**
 - [Count](https://count.co) "The BI notebook built for analysts"
 - [PopSQL](https://popsql.com) "Modern SQL editor"
 - [DataGrip](https://www.jetbrains.com/datagrip) IDE for SQL (JetBrains)
@@ -86,12 +86,12 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [SqlDBM](https://sqldbm.com) Develop Database Models
 - [Querybook](https://www.querybook.org) Open Source SQL query and Big Data IDE via a notebook interface
 
-**SQL Engines**
+<a name="sql"></a>**SQL Engines**
 - [Trino](https://trino.io) Open Source high perf and distributed SQL query engine (formerly PrestoSQL)
 - [Starburst](https://www.starburst.io) Cloud or On-premises SQL engine (based on [Trino](https://trino.io))
 - [AWS Athena](https://aws.amazon.com/athena) Interactive SQL query service for Amazon S3 (based on Presto)
 
-**BI / Reporting / Data Visualization**
+<a name="bi"></a>**BI / Reporting / Data Visualization**
 - [Metabase](https://www.metabase.com) Open Source business intelligence tool
 - [Apache Superset](https://superset.apache.org) Open Source modern data exploration and visualization platform
 - [Apache ECharts](https://echarts.apache.org) Open Source JavaScript Visualization Library
@@ -110,7 +110,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [D3](https://d3js.org) JavaScript library for visualizing data with HTML, SVG, and CSS
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
-**Data Quality / Data Profiling / Data Observability**
+<a name="quality"></a>**Data Quality / Data Profiling / Data Observability**
 - [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
 - [Datafold](https://www.datafold.com) Data Observability platform
@@ -119,7 +119,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Anomalo](https://www.anomalo.com) Validate and document your data warehouse
 - [Trackplan](https://trackplan.io) "Schema Management for Behavioural Data Tracking"
 
-**Data Management / Data Lineage / Data Catalog / Data Governance**
+<a name="management"></a>**Data Management / Data Lineage / Data Catalog / Data Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
 - [Marquez](https://marquezproject.github.io/marquez) Open Source metadata and data governance project
 - [DataHub](https://datahubproject.io) Open Source metadata search & discovery tool
@@ -132,7 +132,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [MANTA](https://getmanta.com) Data Lineage platform
 - [data.world](https://data.world) Cloud-native Data Catalog
 
-**DataOps / Data Fabric**
+<a name="ops"></a>**DataOps / Data Fabric**
 - [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
 - [Nessie](https://projectnessie.org) DataOps for Data Lakes, a "Git-Like Experience for your Data Lake"
 - [Nexla](https://www.nexla.com) DataOps platform "to delivery data for Analytics, AI and Operations"
@@ -144,14 +144,14 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Upsolver](https://www.upsolver.com) "Compute and pipeline layer between your data lake and the analytics tools"
 - [Cinchy](https://www.cinchy.com) "Autonomous Data Fabric" and Data Management platform
 
-**Orchestration / Workflow**
+<a name="orchestration"></a>**Orchestration / Workflow**
 - [Apache Airflow](https://airflow.apache.org) Open Source workflow scheduler platform
 - [Dagster](https://dagster.io) Open Source "Data orchestrator for machine learning, analytics, and ETL"
 - [Prefect](https://www.prefect.io) Workflow management system and platform for dataflow automation
 - [Apache DolphinScheduler](https://dolphinscheduler.apache.org) "Distributed and easy-to-extend visual workflow scheduler system"
 - [Luigi](https://github.com/spotify) Python package to build complex pipelines of batch jobs
 
-**Storage / Database**
+<a name="storage"></a>**Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
 - [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
 - [DVC](https://dvc.org) Data Version Control
@@ -159,7 +159,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
 - Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
 
-**Others**
+<a name="others"></a>**Others**
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
 - [Transform Data](https://transformdata.io) Shared data interface and metrics repository 
