@@ -12,11 +12,12 @@
 - BI / Reporting / Data Visualization
 - Data Quality / Data Profiling / Data Observability
 - Data Management / Data Lineage / Data Catalog / Data Governance
-- DataOps
+- DataOps / Data Fabric
+- Orchestration / Workflow
 - Storage / Database
 - Others
 
-No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, streaming, orchestration, workflow or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
+No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, streaming, or data privacy tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
 **Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
@@ -64,6 +65,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Mixpanel](https://mixpanel.com) Product analytics platform
 - [Indicative](https://www.indicative.com) Product analytics platform 
 - [Heap](https://heap.io) Product analytics platform
+- [Supermetrics](https://supermetrics.com) Get marketing data for reporting, analytics and storage
 
 **Data Transformation / Preparation / Cleaning / Wrangling**
 - [Trifacta](https://www.trifacta.com) Data Wrangling for Cloud (or Hadoop) platforms and storages
@@ -130,7 +132,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [MANTA](https://getmanta.com) Data Lineage platform
 - [data.world](https://data.world) Cloud-native Data Catalog
 
-**DataOps**
+**DataOps / Data Fabric**
 - [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
 - [Nessie](https://projectnessie.org) DataOps for Data Lakes, a "Git-Like Experience for your Data Lake"
 - [Nexla](https://www.nexla.com) DataOps platform "to delivery data for Analytics, AI and Operations"
@@ -139,6 +141,15 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [DataKitchen](https://datakitchen.io) DataOps platform
 - [DAGsHub](https://dagshub.com) GitHub for data
 - [Unravel](https://www.unraveldata.com) DataOps platform
+- [Upsolver](https://www.upsolver.com) "Compute and pipeline layer between your data lake and the analytics tools"
+- [Cinchy](https://www.cinchy.com) "Autonomous Data Fabric" and Data Management platform
+
+**Orchestration / Workflow**
+[Apache Airflow](https://airflow.apache.org) Open Source workflow scheduler platform
+[Dagster](https://dagster.io) Open Source "Data orchestrator for machine learning, analytics, and ETL"
+[Prefect](https://www.prefect.io) Workflow management system and platform for dataflow automation
+[Apache DolphinScheduler](https://dolphinscheduler.apache.org) "Distributed and easy-to-extend visual workflow scheduler system"
+[Luigi](https://github.com/spotify) Python package to build complex pipelines of batch jobs
 
 **Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
