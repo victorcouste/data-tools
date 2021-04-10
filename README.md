@@ -148,7 +148,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Apache Airflow](https://airflow.apache.org) Open Source workflow scheduler platform
 - [Dagster](https://dagster.io) Open Source "Data orchestrator for machine learning, analytics, and ETL"
 - [Prefect](https://www.prefect.io) Workflow management system and platform for dataflow automation
-- [Apache DolphinScheduler](https://dolphinscheduler.apache.org) "Distributed and easy-to-extend visual workflow scheduler system"
+- [Apache DolphinScheduler](https://dolphinscheduler.apache.org) Distributed and visual workflow scheduler system
 - [Luigi](https://github.com/spotify) Python package to build complex pipelines of batch jobs
 
 <a name="storage"></a>**Storage / Database**
