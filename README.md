@@ -11,8 +11,8 @@
 - [SQL Tools / Editors](#sqltools)
 - [SQL Engines](#sql)
 - [BI / Reporting / Data Visualization](#bi)
-- [Data Quality / Data Profiling / Data Observability](#quality)
-- [Data Management / Data Lineage / Data Catalog / Data Governance](#management)
+- [Data Quality / Profiling / Observability](#quality)
+- [Data Management / Lineage / Catalog / Governance](#management)
 - [DataOps / Data Fabric](#ops)
 - [Orchestration / Workflow](#orchestration)
 - [Storage / Database](#storage)
@@ -111,7 +111,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [D3](https://d3js.org) JavaScript library for visualizing data with HTML, SVG, and CSS
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
-<a name="quality"></a>**Data Quality / Data Profiling / Data Observability**
+<a name="quality"></a>**Data Quality / Profiling / Observability**
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
 - [Datafold](https://www.datafold.com) Data Observability platform
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
@@ -119,7 +119,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Anomalo](https://www.anomalo.com) Validate and document your data warehouse
 - [Trackplan](https://trackplan.io) "Schema Management for Behavioural Data Tracking"
 
-<a name="management"></a>**Data Management / Data Lineage / Data Catalog / Data Governance**
+<a name="management"></a>**Data Management / Lineage / Catalog / Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
 - [Marquez](https://marquezproject.github.io/marquez) Open Source metadata and data governance project
 - [DataHub](https://datahubproject.io) Open Source metadata search & discovery tool
