@@ -145,11 +145,11 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Cinchy](https://www.cinchy.com) "Autonomous Data Fabric" and Data Management platform
 
 **Orchestration / Workflow**
-[Apache Airflow](https://airflow.apache.org) Open Source workflow scheduler platform
-[Dagster](https://dagster.io) Open Source "Data orchestrator for machine learning, analytics, and ETL"
-[Prefect](https://www.prefect.io) Workflow management system and platform for dataflow automation
-[Apache DolphinScheduler](https://dolphinscheduler.apache.org) "Distributed and easy-to-extend visual workflow scheduler system"
-[Luigi](https://github.com/spotify) Python package to build complex pipelines of batch jobs
+- [Apache Airflow](https://airflow.apache.org) Open Source workflow scheduler platform
+- [Dagster](https://dagster.io) Open Source "Data orchestrator for machine learning, analytics, and ETL"
+- [Prefect](https://www.prefect.io) Workflow management system and platform for dataflow automation
+- [Apache DolphinScheduler](https://dolphinscheduler.apache.org) "Distributed and easy-to-extend visual workflow scheduler system"
+- [Luigi](https://github.com/spotify) Python package to build complex pipelines of batch jobs
 
 **Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
