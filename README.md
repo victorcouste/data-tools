@@ -15,7 +15,7 @@
 - [DataOps / Data Fabric](#ops)
 - [Orchestration / Workflow](#orchestration)
 - [Storage / Database](#storage)
-- [Data Privacy / Security](#privacy)
+- [Data Privacy / Security / Identity](#privacy)
 - [Others](#others)
 
 No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, or streaming tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
@@ -160,7 +160,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
 - Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
 
-<a name="privacy"></a>**Data Privacy / Security**
+<a name="privacy"></a>**Data Privacy / Security / Identity**
 - [Immuta](https://www.immuta.com) "Self-Service Data Access with Automated Privacy Control"
 - [Okera](https://www.okera.com) Cloud data security, "Universal Data Authorization"
 - [Privacera](https://privacera.com) SaaS Access Governance Solution
