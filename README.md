@@ -3,6 +3,7 @@
 
 [![Suggest a Data Tool !](https://img.shields.io/badge/Suggest-a%20Data%20Tool-green)](https://github.com/victorcouste/data-tools/issues/new)
 
+- [Data Architecture articles](#architecture)
 - [Data Ingestion / Data Onboarding / ETL / ELT](#ingestion)
 - [Reverse ETL](#reverse)
 - [Data Collection / Product Analytics / Customer Data](#collection)
@@ -20,7 +21,7 @@
 
 No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, or streaming tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
-**Data Architecture**
+<a name="architecture"></a>**Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
 - [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack)
 - [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html) and a [Data Warehouse comparison](https://blog.starburstdata.com/data-mesh-the-answer-to-the-data-warehouse-hypocrisy)
@@ -28,10 +29,9 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Two steps towards a modern data platform](https://medium.com/bigdatarepublic/two-steps-towards-a-modern-data-platform-37c74e7c104b)
 - [What your data team is using: The analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
 - [The Top 20 Most Commonly Used Data Engineering Tools](https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools)
-
-**Open Source**
 - [Data Stacks For Fun & Nonprofit](https://towardsdatascience.com/data-stacks-for-fun-nonprofit-part-ii-d375d824abf3)
 - [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a)
+- [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
 
 <a name="ingestion"></a>**Data Ingestion / Data Onboarding / ETL / ELT**
 - [Flatfile](https://flatfile.io) Data Onboarding platform
@@ -112,7 +112,6 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
 
 <a name="quality"></a>**Data Quality / Data Profiling / Data Observability**
-- [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
 - [Datafold](https://www.datafold.com) Data Observability platform
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
