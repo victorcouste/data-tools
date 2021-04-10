@@ -174,6 +174,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Opendatasoft](https://www.opendatasoft.com) Data sharing platform 
 - [Streamlit](https://streamlit.io) Turns data scripts into shareable data web apps
 - [Transform Data](https://transformdata.io) Shared data interface and metrics repository 
+- [White Label Data](https://docs.whitelabeldata.com) Platform for building and deploying custom data applications
 
 **And finally don't hesitate to:**
 - [Star](https://github.com/victorcouste/data-tools/stargazers) this GitHub repository Web page
