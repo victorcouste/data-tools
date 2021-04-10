@@ -32,7 +32,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Data Stacks For Fun & Nonprofit](https://towardsdatascience.com/data-stacks-for-fun-nonprofit-part-ii-d375d824abf3)
 - [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a)
 
-<a name="ingestion">**Data Ingestion / Data Onboarding / ETL / ELT**</a>
+<a name="ingestion"></a>**Data Ingestion / Data Onboarding / ETL / ELT**
 - [Flatfile](https://flatfile.io) Data Onboarding platform
 - [Fivetran](https://fivetran.com) Cloud data integration platform
 - [Matillion](https://www.matillion.com) Cloud data integration platform
