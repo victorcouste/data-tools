@@ -153,6 +153,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 
 <a name="storage"></a>**Storage / Database**
 - [DuckDB](https://duckdb.org) In-process SQL OLAP database (Sqlite like column oriented)
+- [ClickHouse](https://clickhouse.tech/) Open-source OLAP database management system
 - [DoltHub](https://www.dolthub.com) "the true Git for data experience in a SQL database"
 - [DVC](https://dvc.org) Data Version Control
 - [Materialize](https://materialize.com) Event Streaming Database
