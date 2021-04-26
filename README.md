@@ -118,6 +118,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Bigeye](https://www.bigeye.com) Automatic data quality monitoring
 - [Anomalo](https://www.anomalo.com) Validate and document your data warehouse
 - [Trackplan](https://trackplan.io) "Schema Management for Behavioural Data Tracking"
+- [lightup](https://www.lightup.ai) Cloud data quality indicators provider
 
 <a name="management"></a>**Data Management / Lineage / Catalog / Governance**
 - [Datakin](https://datakin.com) DataOps solution, Data Lineage
