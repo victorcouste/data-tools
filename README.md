@@ -91,6 +91,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Trino](https://trino.io) Open Source high perf and distributed SQL query engine (formerly PrestoSQL)
 - [Starburst](https://www.starburst.io) Cloud or On-premises SQL engine (based on [Trino](https://trino.io))
 - [AWS Athena](https://aws.amazon.com/athena) Interactive SQL query service for Amazon S3 (based on Presto)
+- [DataFusion](https://github.com/apache/arrow-datafusion) Query execution engine using Apache Arrow as its in-memory format
 
 <a name="bi"></a>**BI / Reporting / Data Visualization**
 - [Metabase](https://www.metabase.com) Open Source business intelligence tool
