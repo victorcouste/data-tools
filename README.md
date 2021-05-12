@@ -86,6 +86,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [sq](https://sq.io) "swiss-army knife for data", SQL in command line for relational data
 - [SqlDBM](https://sqldbm.com) Develop Database Models
 - [Querybook](https://www.querybook.org) Open Source SQL query and Big Data IDE via a notebook interface
+- [Soda SQL](https://github.com/sodadata/soda-sql) Data testing, monitoring, and profiling for SQL-accessible data
 
 <a name="sql"></a>**SQL Engines**
 - [Trino](https://trino.io) Open Source high perf and distributed SQL query engine (formerly PrestoSQL)
