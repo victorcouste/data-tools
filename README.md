@@ -168,7 +168,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Immuta](https://www.immuta.com) "Self-Service Data Access with Automated Privacy Control"
 - [Okera](https://www.okera.com) Cloud data security, "Universal Data Authorization"
 - [Privacera](https://privacera.com) SaaS Access Governance Solution
-- [Apache Ranger](https://ranger.apache.org/Framework to enable, monitor and manage comprehensive data security
+- [Apache Ranger](https://ranger.apache.org) Framework to enable, monitor and manage comprehensive data security
 - [Baffle](https://baffle.io) Cloud security with a "transparent data security mesh"
 - [Privitar](https://www.privitar.com) Enterprise Data Privacy Software
 - [ReachFive](https://www.reachfive.com) Identity & Access Management
