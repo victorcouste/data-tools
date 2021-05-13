@@ -87,6 +87,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [SqlDBM](https://sqldbm.com) Develop Database Models
 - [Querybook](https://www.querybook.org) Open Source SQL query and Big Data IDE via a notebook interface
 - [Soda SQL](https://github.com/sodadata/soda-sql) Data testing, monitoring, and profiling for SQL-accessible data
+- [SQLFluff](https://github.com/sqlfluff/sqlfluff) SQL Linting and Auto-formatting for Humans
 
 <a name="sql"></a>**SQL Engines**
 - [Trino](https://trino.io) Open Source high perf and distributed SQL query engine (formerly PrestoSQL)
