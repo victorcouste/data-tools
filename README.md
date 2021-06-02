@@ -135,6 +135,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Secoda](https://www.secoda.co) Data Discovery and Data Catalog
 - [MANTA](https://getmanta.com) Data Lineage platform
 - [data.world](https://data.world) Cloud-native Data Catalog
+- [Stemma](https://www.stemma.ai/) SaaS managed version of Amundsen
 
 <a name="ops"></a>**DataOps / Data Fabric**
 - [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
