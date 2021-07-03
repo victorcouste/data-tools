@@ -59,8 +59,6 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Freshpaint](https://www.freshpaint.io) Collect, control, and deliver customer data
 - [PostHog](https://posthog.com) Open Source Product Analytics platform
 - [Amplitude](https://amplitude.com) Product Analytics platform
-- [PostHog](https://posthog.com) Open Source Product Analytics platform
-- [Amplitude](https://amplitude.com) Product Analytics platform
 - [Iteratively](https://iterative.ly) Product Analytics platform « Capture customer data you trust »  
 - [Avo](https://www.avo.app) Product Analytics platform
 - [Mixpanel](https://mixpanel.com) Product analytics platform
