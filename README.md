@@ -111,7 +111,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Datawrapper](https://www.datawrapper.de) Enrich stories and articles with data visualization
 - [D3](https://d3js.org) JavaScript library for visualizing data with HTML, SVG, and CSS
 - [Lightdash](https://www.lightdash.com) Open source BI tool fully integrated with dbt projects
-- Tableau, PowerBI, Sisense, Qlik, Spotfire, Chartio (Atlassian), Domo, Toucan Toco
+- Tableau, PowerBI, Sisense, Qlik, Spotfire, ThoughtSpot, Chartio (Atlassian), Domo, Toucan Toco
 
 <a name="quality"></a>**Data Quality / Profiling / Observability**
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
