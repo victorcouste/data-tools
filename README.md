@@ -162,7 +162,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [DVC](https://dvc.org) Data Version Control
 - [Materialize](https://materialize.com) Event Streaming Database
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
-- Snowflake, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
+- Snowflake, Firebolt, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
 
 <a name="privacy"></a>**Data Privacy / Security / Identity**
 - [Immuta](https://www.immuta.com) "Self-Service Data Access with Automated Privacy Control"
