@@ -19,7 +19,7 @@
 - [Data Privacy / Security / Identity](#privacy)
 - [Others](#others)
 
-No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, or streaming tools. And no embedded tools proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
+No (file systems) storage or (traditional) databases, and for now, no data science, virtualization, or streaming tools. And no all embedded tools and services proposed by the 3 main public Cloud providers (Google Cloud, Microsoft Azure and AWS).
 
 <a name="architecture"></a>**Data Architecture**
 - [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure)
