@@ -135,6 +135,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [MANTA](https://getmanta.com) Data Lineage platform
 - [data.world](https://data.world) Cloud-native Data Catalog
 - [Stemma](https://www.stemma.ai/) SaaS managed version of Amundsen
+- [Egeria](https://egeria.odpi.org/) Open Metadata and Governance
 
 <a name="ops"></a>**DataOps / Data Fabric**
 - [Altan](https://atlan.com) "the modern data workspace", Data Management & DataOps
