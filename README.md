@@ -45,6 +45,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Hevo](https://hevodata.com) No-code data pipeline as a service
 - [Apache Hop](http://hop.incubator.apache.org) Open Source data integration platform project
 - [Meroxa](https://meroxa.com) Real-time data ingestion infrastructure
+- [Portable](https://portable.io) Cloud Hosted ELT Platform
 - Talend, StreamSets, Alooma (Google), Xplenty, Striim, Panoply, Stambia, HVR
 
 <a name="reverse"></a>**Reverse ETL**
