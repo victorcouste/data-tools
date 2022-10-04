@@ -112,6 +112,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [Datawrapper](https://www.datawrapper.de) Enrich stories and articles with data visualization
 - [D3](https://d3js.org) JavaScript library for visualizing data with HTML, SVG, and CSS
 - [Lightdash](https://www.lightdash.com) Open source BI tool fully integrated with dbt projects
+- [Glean](https://glean.io/blog-posts/introducing-glean) Insights fast, integrates with git and dbt. https://docs.glean.io/
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, ThoughtSpot, Chartio (Atlassian), Domo, Toucan Toco
 
 <a name="quality"></a>**Data Quality / Profiling / Observability**
