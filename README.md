@@ -117,6 +117,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 <a name="quality"></a>**Data Quality / Profiling / Observability**
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
 - [Datafold](https://www.datafold.com) Data Observability platform
+- [DataProfiler](https://github.com/capitalone/DataProfiler) Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 - [Great Expectations](https://greatexpectations.io) Open Source data quality, profiling & validation
 - [Bigeye](https://www.bigeye.com) Automatic data quality monitoring
 - [Anomalo](https://www.anomalo.com) Validate and document your data warehouse
