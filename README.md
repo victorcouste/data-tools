@@ -164,6 +164,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [DVC](https://dvc.org) Data Version Control
 - [Materialize](https://materialize.com) Event Streaming Database
 - [Warp 10](https://www.warp10.io) Advanced Time Series Platform
+- [XetHub](https://www.xethub.com) Version controlled, deduplicating blob store for data & ML assets
 - Snowflake, Firebolt, BigQuery, Redshift, Apache Cassandra, MongoDB, InfluxDB, QuestDB, Neo4j, SingleStore(MemSQL)
 
 <a name="privacy"></a>**Data Privacy / Security / Identity**
