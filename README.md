@@ -113,6 +113,7 @@ No (file systems) storage or (traditional) databases, and for now, no data scien
 - [D3](https://d3js.org) JavaScript library for visualizing data with HTML, SVG, and CSS
 - [Lightdash](https://www.lightdash.com) Open source BI tool fully integrated with dbt projects
 - Tableau, PowerBI, Sisense, Qlik, Spotfire, ThoughtSpot, Chartio (Atlassian), Domo, Toucan Toco
+- [arcodash](https://www.arcodash.com) Hosted SQL dashboards with built-in data checks and alerts (freshness, row count, null rate)
 
 <a name="quality"></a>**Data Quality / Profiling / Observability**
 - [Monte Carlo](https://www.montecarlodata.com) "Data Reliability Delivered"
